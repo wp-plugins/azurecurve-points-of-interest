@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: azurecurve Pointsof Interest\n"
+"POT-Creation-Date: 2015-05-16 19:17-0000\n"
+"PO-Revision-Date: 2015-05-16 19:17-0000\n"
+"Last-Translator: azurecurve Wordpress Development <wordpressdev@azurecurve."
+"co.uk>\n"
+"Language-Team: azurecurve WordPress Development <wpdev@azurecurve.co.uk>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: azurecurve-points-of-interest.php:90
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: azurecurve-points-of-interest.php:101
+msgid " Options"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:104
+msgid "Options have been saved."
+msgstr ""
+
+#: azurecurve-points-of-interest.php:114
+msgid "Default Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:129
+msgid "Default Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:144
+msgid "Default Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:159
+msgid "Default Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:175
+msgid "Submit"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:190
+msgid "You do not have sufficient permissions to perform this action."
+msgstr ""
+
+#: azurecurve-points-of-interest.php:234
+msgid "Points of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:235
+msgid "Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:236
+msgid "Add New"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:237
+msgid "Add New Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:238
+#: templates/single-point-of-interest.php:122
+msgid "Edit"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:239
+msgid "Edit Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:240
+msgid "New Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:241
+msgid "View"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:242
+msgid "View Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:243
+msgid "Search Points of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:244
+msgid "No Points of Interest found"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:245
+msgid "No Points of Interest found in Trash"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:246
+msgid "Parent Point of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:260
+msgid "Options"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:266
+msgid "Point of Interest Details"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:302
+#: azurecurve-points-of-interest.php:879
+#: templates/archive-points-of-interest.php:20
+#: templates/single-point-of-interest.php:27
+msgid "Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:320
+#: azurecurve-points-of-interest.php:880
+#: templates/archive-points-of-interest.php:21
+#: templates/single-point-of-interest.php:35
+msgid "Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:338
+#: azurecurve-points-of-interest.php:881
+#: templates/archive-points-of-interest.php:22
+#: templates/single-point-of-interest.php:50
+msgid "Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:356
+#: azurecurve-points-of-interest.php:882
+#: templates/archive-points-of-interest.php:23
+#: templates/single-point-of-interest.php:58
+msgid "Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:374
+#: azurecurve-points-of-interest.php:883
+#: templates/archive-points-of-interest.php:24
+#: templates/single-point-of-interest.php:66
+msgid "Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:392
+#: azurecurve-points-of-interest.php:639
+#: templates/single-point-of-interest.php:77
+msgid "Location"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:396
+#: templates/single-point-of-interest.php:82
+msgid "Grid Reference"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:400
+#: templates/single-point-of-interest.php:87
+msgid "Telephone"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:404
+#: templates/single-point-of-interest.php:92
+msgid "Email"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:408
+#: templates/single-point-of-interest.php:97
+msgid "Website"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:412
+#: templates/single-point-of-interest.php:102
+msgid "Twitter"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:416
+#: templates/single-point-of-interest.php:107
+msgid "Facebook"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:420
+#: templates/single-point-of-interest.php:112
+msgid "LinkedIn"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:638
+#: templates/archive-points-of-interest.php:19
+msgid "Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:654
+msgid "Previous Points of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:657
+msgid "Next Points of Interest"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:672
+#: azurecurve-points-of-interest.php:703
+msgid "Point of Interest Types"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:673
+#: azurecurve-points-of-interest.php:682
+msgid "Point of Interest Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:674
+msgid "Search Point of Interest Types"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:675
+msgid "All Point of Interest Types"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:676
+msgid "Parent Point of Interest Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:677
+msgid "Parent Point of Interest Type:"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:678
+msgid "Edit Point of Interest Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:679
+msgid "Update Point of Interest Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:680
+msgid "Add New Point of Interest Type"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:681
+msgid "New Point of Interest Type Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:714
+#: azurecurve-points-of-interest.php:745
+msgid "Point of Interest Owners"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:715
+#: azurecurve-points-of-interest.php:724
+msgid "Point of Interest Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:716
+msgid "Search Point of Interest Owners"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:717
+msgid "All Point of Interest Owners"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:718
+msgid "Parent Point of Interest Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:719
+msgid "Parent Point of Interest Owner:"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:720
+msgid "Edit Point of Interest Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:721
+msgid "Update Point of Interest Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:722
+msgid "Add New Point of Interest Owner"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:723
+msgid "New Point of Interest Owner Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:756
+#: azurecurve-points-of-interest.php:787
+msgid "Point of Interest Continents"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:757
+#: azurecurve-points-of-interest.php:766
+msgid "Point of Interest Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:758
+msgid "Search Point of Interest Continents"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:759
+msgid "All Point of Interest Continents"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:760
+msgid "Parent Point of Interest Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:761
+msgid "Parent Point of Interest Continent:"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:762
+msgid "Edit Point of Interest Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:763
+msgid "Update Point of Interest Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:764
+msgid "Add New Point of Interest Continent"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:765
+msgid "New Point of Interest Continent Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:797
+#: azurecurve-points-of-interest.php:828
+msgid "Point of Interest Countries"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:798
+#: azurecurve-points-of-interest.php:807
+msgid "Point of Interest Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:799
+msgid "Search Point of Interest Countries"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:800
+msgid "All Point of Interest Countries"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:801
+msgid "Parent Point of Interest Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:802
+msgid "Parent Point of Interest Country:"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:803
+msgid "Edit Point of Interest Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:804
+msgid "Update Point of Interest Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:805
+msgid "Add New Point of Interest Country"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:806
+msgid "New Point of Interest Country Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:839
+#: azurecurve-points-of-interest.php:870
+msgid "Point of Interest Regions"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:840
+#: azurecurve-points-of-interest.php:849
+msgid "Point of Interest Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:841
+msgid "Search Point of Interest Regions"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:842
+msgid "All Point of Interest Regions"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:843
+msgid "Parent Point of Interest Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:844
+msgid "Parent Point of Interest Region:"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:845
+msgid "Edit Point of Interest Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:846
+msgid "Update Point of Interest Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:847
+msgid "Add New Point of Interest Region"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:848
+msgid "New Point of Interest Region Name"
+msgstr ""
+
+#: azurecurve-points-of-interest.php:897
+#: azurecurve-points-of-interest.php:904
+#: azurecurve-points-of-interest.php:911
+#: azurecurve-points-of-interest.php:918
+#: azurecurve-points-of-interest.php:925
+msgid "None Assigned"
+msgstr ""
+
+#: templates/archive-points-of-interest.php:11
+msgid "Points of Interest Archive"
+msgstr ""
+
+#: templates/single-point-of-interest.php:43
+msgid "Details"
+msgstr ""
+
+#: templates/single-point-of-interest.php:46
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: templates/single-point-of-interest.php:116
+msgid "Pages:"
+msgstr ""
+
+#: templates/single-point-of-interest.php:130
+msgid "Leave a comment"
+msgstr ""
+
+#: templates/single-point-of-interest.php:130
+msgid "One comment so far"
+msgstr ""
+
+#: templates/single-point-of-interest.php:130
+msgid "View all comments"
+msgstr ""
