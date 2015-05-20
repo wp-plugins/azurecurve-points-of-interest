@@ -38,7 +38,7 @@ This plugin is multisite compatible and supports language translations.
 * Default templates for single Points of Interest and archives are available for the Twenty Thirteen theme. To customise them copy the templates into your themes folder.
 
 == Changelog ==
-Changes and feature additions for the Mobile Detection plugin:
+Changes and feature additions for the Points of Interest plugin:
 = 1.0.0 =
 * First version
 
