@@ -1,0 +1,22 @@
+/* tag cloud
+----------------------------------------------- */
+table.azc_poi_archive {
+	width: 1200px;
+	margin: auto;
+}
+th.azc_poi_archive{
+	width: 200px;
+}
+td.azc_poi_archive{
+	width: 200px;
+}
+table.azc_poi {
+	width: 700px;
+	margin: auto;
+}
+th.azc_poi{
+	width: 20%;
+}
+td.azc_poi{
+	width: 80%;
+}
